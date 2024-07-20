@@ -7,11 +7,11 @@ Indirect Prompt Injection Methodology (IPIM) - A structured process which securi
 2.	Map out all attacker-injectable sources the LLM has access to read from
 
 ## Craft the exploit
-*For all source-action pairings:*\n
+*For all source-action pairings:*
 3.	Determine if the LLM can be pre-authorised to perform the action
 4.	Inject a more persuasive prompt into the source
 5.	Ask the LLM to read from the source and observe if the action occurs
 
 ## Refine the prompt
-*If the action does not occur:*\n
+*If the action does not occur:*
 6.	Repeat steps 4 and 5, iteratively modifying the prompt until you achieve success
