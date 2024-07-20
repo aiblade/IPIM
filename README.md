@@ -14,6 +14,5 @@ Indirect Prompt Injection Methodology (IPIM) - A structured process which securi
 5.	Ask the LLM to read from the source and observe if the action occurs
 
 **Refine the prompt**
-
 *If the action does not occur:*
 6.	Repeat steps 4 and 5, iteratively modifying the prompt until you achieve success
