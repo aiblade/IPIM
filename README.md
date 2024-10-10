@@ -1,8 +1,6 @@
 # IPIM
 Indirect Prompt Injection Methodology (IPIM) - A structured process which security professionals can use to find Indirect Prompt Injection vulnerabilities in LLMs and produce POCs. 
 
-![image](https://github.com/user-attachments/assets/a1cc2794-83df-4ff7-831b-d32afd835495)
-
 ## Explore the attack surface
 1.	Map out all actions the LLM has access to perform
 2.	Map out all attacker-injectable sources the LLM has access to read from
@@ -18,3 +16,5 @@ Indirect Prompt Injection Methodology (IPIM) - A structured process which securi
 *If the action does not occur:*
 
 6.	Repeat steps 4 and 5, iteratively modifying the prompt until you achieve success
+
+![image](https://github.com/user-attachments/assets/a1cc2794-83df-4ff7-831b-d32afd835495)
