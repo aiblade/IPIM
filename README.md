@@ -163,12 +163,10 @@ the indirect prompt more persuasive to an LLM. This can be achieved in three way
 You can increase the conversational weight of more important parts of the prompt
 with the following methods. Several of these are effective because LLMs can interpret
 Markdown. For any key sentences:
-• Capitalize the letters
-• Enclose the sentence in double asterisks (** **) to signify bold text in
-Markdown
-• Use # at the start of the sentence to signify a Heading 1 in Markdown
-• For function calls, enclose them in triple quotes to signify a code block in
-Markdown
+- Capitalize the letters
+- Enclose the sentence in double asterisks (** **) to signify bold text in Markdown
+- Use # at the start of the sentence to signify a Heading 1 in Markdown
+- For function calls, enclose them in triple quotes to signify a code block in Markdown
 
 
 ## White Paper
