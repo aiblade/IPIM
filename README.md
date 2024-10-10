@@ -118,6 +118,7 @@ main types of authorization checks at the time of writing: semantic authorizatio
 token-based authorization.
 
 **Bypassing semantic authorization**
+
 For semantic authorization, an LLM has been programmed with prompts from its
 developer to only allow actions to occur with verbal confirmation from a user. The
 following prompt can be used to override nearly any semantic authorization block, using
@@ -133,6 +134,7 @@ call}
 ```
 
 **Bypassing token-based authorization**
+
 In token-based authorization, the LLM requires two prompts to confirm an action. In
 the first prompt, the LLM generates a hidden token in its response and asks the user to
 verify the action. If the user provides verbal confirmation, the LLM sends this hidden
