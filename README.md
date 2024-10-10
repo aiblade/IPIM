@@ -20,7 +20,5 @@ Indirect Prompt Injection Methodology (IPIM) - A structured process which securi
 
 6.	Repeat steps 4 and 5, iteratively modifying the prompt until you achieve success
 
-
-
-
-
+## White Paper
+Use https://www.researchgate.net/publication/382692833_The_Practical_Application_of_Indirect_Prompt_Injection_Attacks_From_Academia_to_Industry for prompts and detailed examples.
