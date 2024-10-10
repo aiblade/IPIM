@@ -157,6 +157,7 @@ since they are ingested after the initial user input. As such, it may be necessa
 the indirect prompt more persuasive to an LLM. This can be achieved in three ways:
 
 **Increase emphasis of key parts of the prompt**
+
 You can increase the conversational weight of more important parts of the prompt
 with the following methods. Several of these are effective because LLMs can interpret
 Markdown. For any key sentences:
