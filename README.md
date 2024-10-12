@@ -207,7 +207,7 @@ a 100% success rate. Try each attack sequence in a new chat context three separa
 times – if none of these attempts exhibit the desired behavior, more tailoring is needed
 to improve the attack success rate.
 
-### Refne the prompt
+### Refine the prompt
 
 Due to the unpredictable nature of LLM output, testing for IPI is an iterative process. If
 the attack is unsuccessful, move on to a new iteration, retrying steps 5 and 6.
