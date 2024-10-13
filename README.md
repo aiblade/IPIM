@@ -202,7 +202,7 @@ being ingested. Some examples of this could be:
 ```
 
 Nearly all consumer-grade LLMs have a parameter called temperature, which is preset
-to give them variable answers to the same query [11]. As such, attacks may not have
+to give them variable answers to the same query. As such, attacks may not have
 a 100% success rate. Try each attack sequence in a new chat context three separate
 times – if none of these attempts exhibit the desired behavior, more tailoring is needed
 to improve the attack success rate.
